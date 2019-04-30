@@ -1,0 +1,32 @@
+/* * {
+  outline: 1px solid red;
+} */
+h2 {
+  color: rgb(5, 5, 100);
+}
+address {
+  background-color: #100349;
+  color: white;
+}
+address ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+}
+address li {
+  padding: 10px 20px;
+}
+section header {
+  color: #100349;
+}
+sectioin>header{
+  color: #100349;
+}
+#skills ul{
+  column-count: 3;
+  list-style: none;
+}
+#skills li{
+  padding: 5px 0px;
+}
+
